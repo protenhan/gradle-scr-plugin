@@ -13,7 +13,7 @@ dependencies {
     compile gradleApi()
     compile localGroovy()
 
-    compile 'org.apache.felix:org.apache.felix.scr.generator:1.14.0'
+    compile 'org.apache.felix:org.apache.felix.scr.generator:1.15.0'
     compile 'org.apache.felix:org.apache.felix.scr.ds-annotations:1.2.8'
     compile 'org.osgi:org.osgi.compendium:5.0.0'
     compile 'org.codehaus.plexus:plexus-utils:3.0.15'
