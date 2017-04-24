@@ -3,7 +3,7 @@ gradle-scr-plugin
 
 Generates the OSGI-INF/serviceComponent.xml based on the Apache scr annotations
 
-[![Build Status](https://travis-ci.org/protenhan/gradle-scr-plugin.svg?branch=develop)](https://travis-ci.org/protenhan/gradle-scr-plugin)
+[![Build Status](https://travis-ci.org/protenhan/gradle-scr-plugin.svg?branch=master)](https://travis-ci.org/protenhan/gradle-scr-plugin)
 
 How To
 ======
